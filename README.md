@@ -22,7 +22,11 @@ This repository contains practical product management resources, templates, fram
 - [How to Become a Product Manager](guides/how-to-become-a-product-manager.md)
 - [Product Manager Interview Guide](guides/product-manager-interview-guide.md)
 - [Product Manager Skills Guide](guides/product-manager-skills-guide.md)
-
+- [Product Manager Career Roadmap](guides/product-manager-career-roadmap.md)
+- [Product Management Frameworks Guide](guides/product-management-frameworks-guide.md)
+- [Product Strategy Guide](guides/product-strategy-guide.md)
+- [Product Discovery Guide](guides/product-discovery-guide.md)
+  
 ## About the Program
 
 The Product Management Certification program from the Institute of Product Leadership helps professionals develop expertise in:
