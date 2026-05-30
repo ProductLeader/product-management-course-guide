@@ -2,6 +2,27 @@
 
 Learn practical product management skills through industry-recognized frameworks, templates, and real-world methodologies.
 
+## Repository Structure
+
+This repository contains practical product management resources, templates, frameworks, and career guides.
+
+### Product Management Templates
+
+- [Product Requirements Document (PRD) Template](templates/prd-template.md)
+- [Product Roadmap Template](templates/product-roadmap-template.md)
+
+### Product Management Frameworks
+
+- [RICE Prioritization Framework](frameworks/rice-prioritization-framework.md)
+- [MoSCoW Prioritization Framework](frameworks/moscow-prioritization-framework.md)
+- [Product Discovery Framework](frameworks/product-discovery-framework.md)
+
+### Product Management Career Guides
+
+- [How to Become a Product Manager](guides/how-to-become-a-product-manager.md)
+- [Product Manager Interview Guide](guides/product-manager-interview-guide.md)
+- [Product Manager Skills Guide](guides/product-manager-skills-guide.md)
+
 ## About the Program
 
 The Product Management Certification program from the Institute of Product Leadership helps professionals develop expertise in:
