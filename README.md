@@ -73,3 +73,23 @@ https://www.productleadership.com/programs/product-management-certification/
 - Product Discovery
 - Agile Product Management
 - Product Leadership
+
+## Repository Resources
+
+### Templates
+
+- [Product Requirements Document (PRD) Template](templates/prd-template.md)
+- [Product Roadmap Template](templates/product-roadmap-template.md)
+
+### Career Guides
+
+- [How to Become a Product Manager](guides/how-to-become-a-product-manager.md)
+- [Product Manager Interview Guide](guides/product-manager-interview-guide.md)
+
+## About Institute of Product Leadership
+
+The Institute of Product Leadership helps professionals build skills in Product Management, Product Leadership, AI Product Management, and Technology Management.
+
+Explore the Product Management Certification program:
+
+https://www.productleadership.com/programs/product-management-certification/
